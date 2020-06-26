@@ -1,0 +1,5 @@
+Variables: almacenan información que será usada con posterioridad.
+Strings: es un tipo de variable que almacena bloques de texto.
+Funciones (argumentos, return) las funciones se emplean para operar con las variables. los argumentos es la información que se le brinda a la función para operar. return, es el resultado del procesos de la función.
+Declaraciones if. se utiliza para verificar si se cumple con determinada condición.
+Valores booleanos (true, false) indica si su valor es verdadero o falso.

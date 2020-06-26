@@ -1,0 +1,4 @@
+for se utiliza para iterar a los efectos de operar con una determinada cantidad de información.
+&&, devuelve verdadero si se cumplen ambas condiciones.
+||, devuelve si una o ambos valores son verdaderos.
+! devuelve el valor booleano opuesto. 
